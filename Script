@@ -238,7 +238,7 @@ task.delay(75, function()
 end)
 
 --== Initial Notifications ==--
-wait(10)
+wait(75)
 notify("[Condom]", "Press Scroll Lock to activate. (Auto-Activates after 75 seconds)")
 
 --== Init ==--
